@@ -63,6 +63,7 @@ skills:
         description: ''
         percent: 90
         icon: spss
+        icon_pack: custom
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -71,6 +72,7 @@ skills:
         description: ''
         percent: 80
         icon: badminton
+        icon_pack: custom
       - name: Photography
         description: ''
         percent: 75

@@ -76,7 +76,7 @@ sections:
               * Qualitative Research
         - title: Graduate Research Assitant
           company: Alcohol Research Lab
-          company_url: '[Lab](https://www.alcoholresearchlab.com/meet-the-team)'
+          company_url: ''
           company_logo: uiuc
           location: Champaign
           date_start: '2023-08-01'
@@ -86,8 +86,20 @@ sections:
               * Clinical Research
               * Quantitative/Qualitative Research
               * Machine/Deep Learning
+        - title: Undergraduate Research Assitant
+          company: Counseling/Psychotherapy Lab
+          company_url: ''
+          company_logo: uofu
+          location: Salt Lake City
+          date_start: '2018-08-01'
+          date_end: '2019-08-01'
+          description: |2-
+              
+              * Clinical Research
+              * Quantitative/Qualitative Research
+              * Machine/Deep Learning
     design:
-      columns: '2'
+      columns: '3'
   - block: collection
     id: posts
     content:
