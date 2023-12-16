@@ -62,27 +62,30 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Graduate Research Assitant
-          company: University of Illinois, Urbana-Champaign
+              - title: Graduate Research Assitant
+          company: LAS Administration
           company_url: ''
+          company_logo: uiuc
+          location: Champaign
+          date_start: '2023-11-01'
+          date_end: ''
+          description: |2-
+              
+              * Big Data Analysis
+              * Sentiment Analysis
+              * Qualitative Research
+        - title: Graduate Research Assitant
+          company: Alcohol Research Lab
+          company_url: '[Lab](https://www.alcoholresearchlab.com/meet-the-team)'
           company_logo: uiuc
           location: Champaign
           date_start: '2023-08-01'
           date_end: ''
           description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+              
+              * Clinical Research
+              * Quantitative/Qualitative Research
+              * Machine/Deep Learning
     design:
       columns: '2'
   - block: collection
