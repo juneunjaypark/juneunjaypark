@@ -3,7 +3,7 @@
 title: Juneun Jay Park
 
 # Name pronunciation (optional)
-name_pronunciation: June-un
+name_pronunciation:
 
 # Full name (for SEO)
 first_name: Jay
