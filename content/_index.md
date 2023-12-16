@@ -62,7 +62,7 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-              - title: Graduate Research Assitant
+          - title: Graduate Research Assitant
           company: LAS Administration
           company_url: ''
           company_logo: uiuc
