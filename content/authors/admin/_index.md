@@ -63,7 +63,6 @@ skills:
         description: 'Statistical Analyses'
         percent: 90
         icon: spss
-        icon_pack: fas
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -71,8 +70,7 @@ skills:
       - name: Badminton
         description: ''
         percent: 80
-        icon: person
-        icon_pack: fas
+        icon: badminton
       - name: Photography
         description: ''
         percent: 75
