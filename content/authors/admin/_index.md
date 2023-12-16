@@ -3,7 +3,7 @@
 title: Juneun Jay Park
 
 # Name pronunciation (optional)
-name_pronunciation:
+name_pronunciation: June-un
 
 # Full name (for SEO)
 first_name: Jay
@@ -62,26 +62,26 @@ skills:
       - name: SPSS
         description: ''
         percent: 90
-        icon: spss
-        icon_pack: custom
+        icon: chart-simple
+        icon_pack: fas
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Badminton
+      - name: Reading
         description: ''
-        percent: 80
-        icon: badminton
-        icon_pack: custom
+        percent: 90
+        icon: book
+        icon_pack: fas
       - name: Photography
         description: ''
         percent: 75
         icon: camera-retro
         icon_pack: fas
-      - name: Reading
+      - name: Badminton
         description: ''
-        percent: 90
-        icon: book
+        percent: 80
+        icon: stroopwafel
         icon_pack: fas
 
 # Social/Academic Networking
