@@ -50,19 +50,20 @@ skills:
   - name: Research
     items:
       - name: Python
-        description: 'Machine/Deep Learning'
+        description: ''
         percent: 90
         icon: python
         icon_pack: fab
       - name: R
-        description: 'Statistical Analyses'
+        description: ''
         percent: 95
         icon: r
         icon_pack: fas
       - name: SPSS
-        description: 'Statistical Analyses'
+        description: ''
         percent: 90
         icon: spss
+        icon_pack: custom
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -71,6 +72,7 @@ skills:
         description: ''
         percent: 80
         icon: badminton
+        icon_pack: custom
       - name: Photography
         description: ''
         percent: 75
@@ -100,4 +102,5 @@ highlight_name: true
 ---
 
 Juneun Jay Park is a graduate student at the University of Illinois, Urbana-Champaign.
+Jay's research focuses on health issues from a socio-contextual perspective. 
 {style="text-align: justify;"} 
