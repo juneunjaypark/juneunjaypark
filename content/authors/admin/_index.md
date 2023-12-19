@@ -61,26 +61,26 @@ skills:
         icon_pack: fas
       - name: Praat
         description: 'Voice Analytics'
-        percent: 93
+        percent: 91
         icon: chart-simple
         icon_pack: fas
   - name: Qualitative
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: ATLAS.ti
-        description: ''
-        percent: 93
+      - name: Qualtrics
+        description: 'Surveys'
+        percent: 89
         icon: book
         icon_pack: fas
-      - name: Qualtrics
-        description: ''
-        percent: 88
+      - name: ATLAS.ti
+        description: 'Mixed-methods'
+        percent: 94
         icon: camera-retro
         icon_pack: fas
       - name: NVivo
-        description: ''
-        percent: 83
+        description: 'Text Processing'
+        percent: 85
         icon: stroopwafel
         icon_pack: fas
 
