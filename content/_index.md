@@ -115,8 +115,8 @@ sections:
           company_url: ''
           company_logo: dcc
           location: Gwacheon, South Korea
-          date_start: '2020-00-00'
-          date_end: '2022-00-00'
+          #date_start: '2020-00-00'
+          #date_end: '2022-00-00'
           description: |2-
               
               * Squad Leader
