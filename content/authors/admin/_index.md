@@ -29,7 +29,7 @@ bio: My research focuses on health issues from a socio-contextual perspective.
 
 # Interests to show in About widget
 interests:
-  - Clinical/Health Psychology
+  - Health Psychology
   - mHealth
   - Machine Learning
   - Ambulatory Assessment
@@ -37,7 +37,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: M.S. in Psychological Sciences (GPA 4.0/4.0)
+    - course: M.S. in Psychological Science (GPA 4.0/4.0)
       institution: University of Illinois, Urbana-Champaign
       year: 2025 (Expected)
     - course: B.S. in Psychology (GPA 4.0/4.0)
@@ -62,7 +62,7 @@ skills:
       - name: Praat
         description: 'Voice Analytics'
         percent: 91
-        icon: chart-simple
+        icon: microphone
         icon_pack: fas
   - name: Qualitative
     color: '#eeac02'
@@ -75,13 +75,13 @@ skills:
         icon_pack: fas
       - name: ATLAS.ti
         description: 'Mixed-methods'
-        percent: 94
-        icon: camera-retro
+        percent: 96
+        icon: chart-simple
         icon_pack: fas
       - name: NVivo
         description: 'Text Processing'
-        percent: 85
-        icon: stroopwafel
+        percent: 86
+        icon: font
         icon_pack: fas
 
 # Social/Academic Networking
@@ -102,5 +102,5 @@ highlight_name: true
 ---
 
 Juneun Jay Park is a graduate student at the University of Illinois, Urbana-Champaign.
-Broadly speaking, my research focuses on health issues from a socio-contextual perspective. 
+Broadly, his research focuses on prevention and intervention in health issues from a socio-contextual perspective. He is particularly interested in employing machine learning besides statistical methods.
 {style="text-align: justify;"} 

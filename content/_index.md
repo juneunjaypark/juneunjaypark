@@ -66,26 +66,86 @@ sections:
           company: LAS Administration
           company_url: ''
           company_logo: uiuc
-          location: Champaign
+          location: Champaign, USA
           date_start: '2023-11-01'
           date_end: ''
           description: |2-
               
-              * Big Data Analysis
-              * Sentiment Analysis
-              * Qualitative Research
+              * Natural Language Processing
+              * Big-Data Analysis
+              * Thematic Analysis
         - title: Graduate Research Assitant
           company: Alcohol Research Lab
           company_url: ''
           company_logo: uiuc
-          location: Champaign
+          location: Champaign, USA
           date_start: '2023-08-01'
           date_end: ''
           description: |2-
               
-              * Clinical Research
-              * Quantitative/Qualitative Research
-              * Machine/Deep Learning
+              * Clinical/Community Research
+              * Multimethodology
+              * Machine Learning
+        - title: Research Assistant
+          company: Ulsan Public Agency for Social Service
+          company_url: ''
+          company_logo: ulsan
+          location: Ulsan, South Korea
+          date_start: '2022-08-01'
+          date_end: '2023-01-01'
+          description: |2-
+              
+              * Healthcare Research
+              * Social Service
+              * Focus Group Interview
+        - title: Research Intern
+          company: Machine Intelligence Lab
+          company_url: ''
+          company_logo: ku
+          location: Seoul, South Korea
+          date_start: '2022-03-01'
+          date_end: '2022-08-01'
+          description: |2-
+              
+              * Interdisciplinary Research
+              * Machine Learning
+              * Medical
+        - title: Counterintelligence Agent
+          company: Defense Counterintelligence Command
+          company_url: ''
+          company_logo: dcc
+          location: Gwacheon, South Korea
+          date_start: '2020-01-01'
+          date_end: '2022-01-01'
+          description: |2-
+              
+              * Squad Leader
+              * Counterintelligence
+              * Military Data Security
+        - title: Counselor Assitant
+          company: Student Counseling Center
+          company_url: ''
+          company_logo: pnu
+          location: Busan, South Korea
+          date_start: '2020-02-01'
+          date_end: '2020-04-01'
+          description: |2-
+              
+              * Data Management
+              * Screening Assessment
+              * Survey
+        - title: Research Assitant
+          company: Counseling Lab
+          company_url: ''
+          company_logo: pnu
+          location: Busan, South Korea
+          date_start: '2020-02-01'
+          date_end: '2020-04-01'
+          description: |2-
+              
+              * Qualitative Research 
+              * Multisystetmic Therapy 
+              * Field Research
         - title: Undergraduate Research Assitant
           company: Counseling/Psychotherapy Lab
           company_url: ''
@@ -95,11 +155,11 @@ sections:
           date_end: '2019-08-01'
           description: |2-
               
-              * Clinical Research
-              * Quantitative/Qualitative Research
-              * Machine/Deep Learning
+              * Counseling/Psychotherapy Research
+              * Qualitative Research
+              * Text-Mining
     design:
-      columns: '3'
+      columns: '8'
   - block: collection
     id: posts
     content:
