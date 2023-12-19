@@ -74,7 +74,7 @@ skills:
         icon: book
         icon_pack: fas
       - name: ATLAS.ti
-        description: 'Mixed-methods'
+        description: 'Mixed-Methods'
         percent: 96
         icon: chart-simple
         icon_pack: fas
