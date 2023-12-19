@@ -47,40 +47,40 @@ education:
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
-  - name: Research
+  - name: Quantitative
     items:
       - name: Python
-        description: ''
-        percent: 90
+        description: 'Machine Learning'
+        percent: 95
         icon: python
         icon_pack: fab
-      - name: R
-        description: ''
-        percent: 95
+      - name: R & SPSS
+        description: 'Statistical Analyses'
+        percent: 97
         icon: r
         icon_pack: fas
-      - name: SPSS
-        description: ''
-        percent: 90
+      - name: Praat
+        description: 'Voice Analytics'
+        percent: 93
         icon: chart-simple
         icon_pack: fas
-  - name: Hobbies
+  - name: Qualitative
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Reading
+      - name: ATLAS.ti
         description: ''
-        percent: 90
+        percent: 93
         icon: book
         icon_pack: fas
-      - name: Photography
+      - name: Qualtrics
         description: ''
-        percent: 75
+        percent: 88
         icon: camera-retro
         icon_pack: fas
-      - name: Badminton
+      - name: NVivo
         description: ''
-        percent: 80
+        percent: 83
         icon: stroopwafel
         icon_pack: fas
 
