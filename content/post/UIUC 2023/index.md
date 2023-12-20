@@ -1,7 +1,7 @@
 ---
 title: Joining University of Illinois, Urbana-Champaign
 date: '2023-08-20'
-#summary: 
+summary: Clinical/Community Psychology
 ---
 
 ## 2025 Cohort
