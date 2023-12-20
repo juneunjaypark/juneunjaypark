@@ -102,5 +102,5 @@ highlight_name: true
 ---
 
 Juneun Jay Park is a graduate student at the University of Illinois, Urbana-Champaign.
-Broadly, his research focuses on prevention and intervention in health issues from a socio-contextual perspective. He is particularly interested in employing machine learning besides statistical methods.
+Broadly, his research focuses on prevention and intervention in health issues from a socio-contextual perspective. He is particularly interested in employing machine learning and ambulatory assessment to contribute to applied and conceptual disciplines in Psychology. As of 2024, he is conducting how alcohol influences speech prosody and natural language in social drinking contexts by utilizing machine learning.
 {style="text-align: justify;"} 

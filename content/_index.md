@@ -167,7 +167,7 @@ sections:
       subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
-      count: 5
+      count: 3
       # Filter on criteria
       filters:
         folders:
@@ -214,17 +214,17 @@ sections:
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
-  - block: collection
-    id: featured
-    content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      columns: '2'
-      view: card
+#  - block: collection
+#    id: featured
+#    content:
+#      title: Featured Publications
+#      filters:
+#        folders:
+#          - publication
+#        featured_only: true
+#    design:
+#      columns: '2'
+#      view: card
   - block: collection
     content:
       title: Recent Publications
@@ -245,11 +245,11 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        I am responsive to emails! Feel free to reach out 🙂
+        Jay is responsive to emails! Don't hesitate to reach out 🙂
       # Contact (add or remove contact options as necessary)
       email: juneunp2@illinois.edu
       address:
-        street: 603 E Daniel St
+        street: 603 E Daniel St.
         city: Champaign
         region: IL
         postcode: '61820'
