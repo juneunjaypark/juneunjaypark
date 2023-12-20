@@ -1,10 +1,10 @@
 ---
-title: Conference 2022!
+title: Annual Conference of the International Next-Gen Convergence Technology Association
 date: '2022-07-11'
-summary: Poster Presentation in Korea!
+summary: Busan, South Korea
 ---
 
-## First Poster in South Korea
+## Poster Presentation
     
 ![png](featured.png)
     
