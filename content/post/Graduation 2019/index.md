@@ -1,5 +1,5 @@
 ---
-title: College Graduation
+title: Graduating Summa Cum Laude
 date: '2019-05-03'
 summary: University of Utah
 ---
