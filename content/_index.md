@@ -214,17 +214,17 @@ sections:
 #      view: showcase
       # For Showcase view, flip alternate rows?
 #      flip_alt_rows: false
-#  - block: collection
-#    id: featured
-#    content:
-#      title: Featured Publications
-#      filters:
-#        folders:
-#          - publication
-#        featured_only: true
-#    design:
-#      columns: '2'
-#      view: card
+  - block: collection
+    id: featured
+    content:
+      title: Featured Publications
+      filters:
+        folders:
+          - publication
+        featured_only: true
+    design:
+      columns: '2'
+      view: card
   - block: collection
     id: recent publications
     content:
@@ -238,7 +238,7 @@ sections:
           - publication
         exclude_featured: true
     design:
-      columns: '3'
+      columns: '2'
       view: citation
   - block: contact
     id: contact
@@ -246,7 +246,7 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Jay is responsive to emails! Don't hesitate to reach out via university email 🙂
+        Jay is responsive to emails! Don't hesitate to reach out via university email below 🙂
       # Contact (add or remove contact options as necessary)
       email: juneunp2@illinois.edu
       address:
