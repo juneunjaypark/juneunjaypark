@@ -4,6 +4,6 @@ date: '2022-07-11'
 summary: Poster Presentation
 ---
 
-Jay Park presented a poster that used a text-mining technique to identify suicidal factors in adolescents.
+*Presenting a poster that employed text-mining to identify suicidal factors in adolescents*
     
 
