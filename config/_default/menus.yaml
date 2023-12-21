@@ -14,7 +14,7 @@ main:
     url: '#projects'
     weight: 30
   - name: Publications
-    url: '#recent publication'
+    url: '#recent publications'
     weight: 40
   - name: Contact
     url: '#contact'
