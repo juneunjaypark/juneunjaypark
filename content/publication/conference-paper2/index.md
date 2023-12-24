@@ -1,5 +1,5 @@
 ---
-title: 'News article'
+title: 'News article analysis 2'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -13,7 +13,7 @@ author_notes:
   - 
   -
 
-date: '2022-09-01T00:00:00Z'
+date: '2022-10-01T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -74,8 +74,6 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
-
-
 
 
 
