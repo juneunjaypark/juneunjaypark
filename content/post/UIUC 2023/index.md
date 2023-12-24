@@ -1,5 +1,5 @@
 ---
-title: Joining UIUC Graduate School
+title: UIUC Graduate School
 date: '2023-08-30'
 summary: Clinical/Community Psychology
 ---
