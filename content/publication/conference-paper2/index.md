@@ -1,5 +1,5 @@
 ---
-title: 'News article analysis 2'
+title: 'Text mining: research trends of college students' problem drinking'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -13,8 +13,8 @@ author_notes:
   - 
   -
 
-date: '2022-10-01T00:00:00Z'
-doi: ''
+date: '2022-06-01T00:00:00Z'
+doi: 'https://doi.org/10.33097/JNCTA.2022.06.06.1127'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2017-01-01T00:00:00Z'
@@ -22,13 +22,13 @@ publishDate: '2017-01-01T00:00:00Z'
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ['paper-conference']
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: At *the annual conference of the International Next-Generation Convergence Technology Association*
-publication_short: At *INCT*
+publication: "*Journal of Next-generation Convergence Technology Association, 44*(6), 819-840, https://doi.org/10.33097/JNCTA.2022.06.06.1127"
+publication_short: JNCTA
 
-abstract: Word frequency and TF-IDF (Importance) revealed that school violence was the key suicidal factor in adolescents. The surrounding causes were parents, smartphone addiction, school policies, etc., indicating indirect influences.
+abstract: This study investigated research trends of college students' problem drinking by using text mining. 100 research papers from 2000 to 2021 were collected with the keyword of "college students' problem drinking" from RISS. We aimed to provide preliminary data on college students' problem drinking by identifying latent meaning and patterns of research articles. Results 140 words were selected for the analysis through preprocessing and stemming from the 100 scholarly literature titles, keywords, and abstracts in Korean and English. The most frequent keyword was 'problem drinking,' and 'college,' 'college students,' 'influence,' 'alcohol,' 'interpersonal relationship,' 'depression,' etc., were in the following order. TF-IDF indicated 'drinking motivation,' 'self-efficacy,' 'depression,' 'college life,' 'stress,' 'personality,' 'psychsocial,' 'violence,' etc. Topic modeling implied that 'topic 1' was the leading topic out of 8 categories. Finally, we propose future directions based on the results.
 
 # Summary. An optional shortened abstract.
 summary:

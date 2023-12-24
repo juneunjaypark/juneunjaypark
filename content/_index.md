@@ -150,7 +150,7 @@ sections:
           company: Counseling/Psychotherapy Lab
           company_url: ''
           company_logo: uofu
-          location: Salt Lake City
+          location: Salt Lake City, USA
           date_start: '2018-08-01'
           date_end: '2019-08-01'
           description: |2-

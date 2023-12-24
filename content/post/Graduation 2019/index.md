@@ -1,9 +1,9 @@
 ---
 title: U of U College Graduation
 date: '2019-05-03'
-summary: Psychology
+summary: B.S. in Psychology 
 ---
 
-*Graduating from the University of Utah in Psychology with the highest distinction (Summa Cum Laude)*
+*Bachelor of Science in Psychology with the highest distinction (Summa Cum Laude)*
     
 
