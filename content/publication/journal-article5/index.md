@@ -64,4 +64,7 @@ projects: []
 slides: ""
 ---
 
+{{% callout note %}}
+Thanks for checking out!
+{{% /callout %}}
 

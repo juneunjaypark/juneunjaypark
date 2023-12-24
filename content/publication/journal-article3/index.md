@@ -1,23 +1,16 @@
 ---
-title: 'Text mining: research trends of college students' problem drinking'
-
-# Authors
-# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
-# and it will be replaced with their full name and linked to their profile.
+title: "Text mining: research trends of college students' problem drinking"
 authors:
-  - Park J
-  - Youn K
-
-# Author notes (optional)
+- Park J
+- Youn K
 author_notes:
-  - 
-  -
-
-date: '2022-06-01T00:00:00Z'
-doi: 'https://doi.org/10.33097/JNCTA.2022.06.06.1127'
+- "Equal contribution"
+- "Equal contribution"
+date: "2022-07-01T00:00:00Z"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: "2017-01-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -26,24 +19,21 @@ publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Journal of Next-generation Convergence Technology Association, 44*(6), 819-840, https://doi.org/10.33097/JNCTA.2022.06.06.1127"
-publication_short: JNCTA
+publication_short: ""
 
 abstract: This study investigated research trends of college students' problem drinking by using text mining. 100 research papers from 2000 to 2021 were collected with the keyword of "college students' problem drinking" from RISS. We aimed to provide preliminary data on college students' problem drinking by identifying latent meaning and patterns of research articles. Results 140 words were selected for the analysis through preprocessing and stemming from the 100 scholarly literature titles, keywords, and abstracts in Korean and English. The most frequent keyword was 'problem drinking,' and 'college,' 'college students,' 'influence,' 'alcohol,' 'interpersonal relationship,' 'depression,' etc., were in the following order. TF-IDF indicated 'drinking motivation,' 'self-efficacy,' 'depression,' 'college life,' 'stress,' 'personality,' 'psychsocial,' 'violence,' etc. Topic modeling implied that 'topic 1' was the leading topic out of 8 categories. Finally, we propose future directions based on the results.
 
 # Summary. An optional shortened abstract.
-summary:
+#summary:
 
-tags: []
+tags:
+- Source Themes
+featured: false
 
-# Display this page in the Featured widget?
-featured: true
-
-# Custom links (uncomment lines below)
 # links:
-# - name: Custom Link
-#   url: http://example.org
-
-url_pdf: ''
+# - name: ""
+#   url: ""
+url_pdf: 
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -53,10 +43,10 @@ url_source: ''
 url_video: ''
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
+# To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
   caption: ''
-  focal_point: ''
+  focal_point: ""
   preview_only: false
 
 # Associated Projects (optional).
@@ -64,8 +54,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-  - []
+projects: []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -75,5 +64,7 @@ projects:
 slides: ""
 ---
 
-
+{{% callout note %}}
+Thanks for checking out!
+{{% /callout %}}
 
