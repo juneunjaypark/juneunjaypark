@@ -1,12 +1,13 @@
 ---
-title: "Text mining: research trends of college students' problem drinking"
+title: "The application of appreciative inquiry (AI) and its effectiveness on social welfare coursework: a case study"
 authors:
-- Park J
 - Youn K
+- Jeon H
+- Park J
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
-date: "2022-07-01T00:00:00Z"
+date: "2022-08-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -18,10 +19,10 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Next-generation Convergence Technology Association, 44*(6), 819-840, https://doi.org/10.33097/JNCTA.2022.06.06.1127"
+publication: "*Journal of Learner-Centered Curriculum and Instruction, 22*(16), 191-209, https://doi.org/10.22251/jlcci.2022.22.16.191"
 publication_short: ""
 
-abstract: This study investigated research trends of college students' problem drinking by using text mining. 100 research papers from 2000 to 2021 were collected with the keyword of "college students' problem drinking" from RISS. We aimed to provide preliminary data on college students' problem drinking by identifying latent meaning and patterns of research articles. Results 140 words were selected for the analysis through preprocessing and stemming from the 100 scholarly literature titles, keywords, and abstracts in Korean and English. The most frequent keyword was 'problem drinking,' and 'college,' 'college students,' 'influence,' 'alcohol,' 'interpersonal relationship,' 'depression,' etc., were in the following order. TF-IDF indicated 'drinking motivation,' 'self-efficacy,' 'depression,' 'college life,' 'stress,' 'personality,' 'psychsocial,' 'violence,' etc. Topic modeling implied that 'topic 1' was the leading topic out of 8 categories. Finally, we propose future directions based on the results.
+abstract: Objectives The purpose of this study is to identify the effectiveness of appreciative inquiry (AI) and how it can be applied to social welfare coursework. Ultimately, the present study aims to boost participatory learning, discover positive aspects of students, and enhance the capability of voluntary AI learning. Methods D University students (N = 34) participated in the 5-D model AI learning. Pre- and post-test was completed to evaluate the effectiveness of AI. Results The 5-D model (e.g., Define, Discovery, Dream, Design, and Desitny) with a single theme for each group appears to be the most desirable method for employing AI in social welfare coursework. Pre- and post-test reveals that the AI class effectiveness of individuals, teams, and team cooperation is augmented. Specifically, the individuals' positive psychological capital varaibles illustrate the highest (average .53 higher). Conclusions Results suggest that AI application in social welfare coursework may be effective for participatory learning and voluntary AI learning. To better implement AI in coursework, future research should consider developing systematic AI processes and objective evaluation tools based on the 5-D model, as well as exploring an action plan, a best practice, and positive questions corresponding to social welfare courses..
 
 # Summary. An optional shortened abstract.
 #summary:
@@ -64,7 +65,4 @@ projects: []
 slides: ""
 ---
 
-{{% callout note %}}
-Thanks for checking out!
-{{% /callout %}}
 

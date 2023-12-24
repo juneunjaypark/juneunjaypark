@@ -1,5 +1,5 @@
 ---
-title: U of U College Graduation
+title: U of U Graduation
 date: '2019-05-03'
 summary: B.S. in Psychology 
 ---

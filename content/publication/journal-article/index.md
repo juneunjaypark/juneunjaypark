@@ -18,7 +18,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Next-generation Convergence Technology Association, 44*(6), 819-840, https://doi.org/10.33097/JNCTA.2022.06.06.1127"
+publication: "*Journal of Next-generation Convergence Technology Association, 6*(6), 1127-1140, https://doi.org/10.33097/JNCTA.2022.06.06.1127"
 publication_short: ""
 
 abstract: This study investigated research trends of college students' problem drinking by using text mining. 100 research papers from 2000 to 2021 were collected with the keyword of "college students' problem drinking" from RISS. We aimed to provide preliminary data on college students' problem drinking by identifying latent meaning and patterns of research articles. Results 140 words were selected for the analysis through preprocessing and stemming from the 100 scholarly literature titles, keywords, and abstracts in Korean and English. The most frequent keyword was 'problem drinking,' and 'college,' 'college students,' 'influence,' 'alcohol,' 'interpersonal relationship,' 'depression,' etc., were in the following order. TF-IDF indicated 'drinking motivation,' 'self-efficacy,' 'depression,' 'college life,' 'stress,' 'personality,' 'psychsocial,' 'violence,' etc. Topic modeling implied that 'topic 1' was the leading topic out of 8 categories. Finally, we propose future directions based on the results.

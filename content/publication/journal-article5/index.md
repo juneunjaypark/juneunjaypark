@@ -1,8 +1,8 @@
 ---
-title: "Text mining: research trends of college students' problem drinking"
+title: "Socio-emotional influences of alcohol on speech properties in social interaction"
 authors:
 - Park J
-- Youn K
+- Fairbairn C
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
@@ -18,10 +18,10 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Next-generation Convergence Technology Association, 44*(6), 819-840, https://doi.org/10.33097/JNCTA.2022.06.06.1127"
+publication: "Pre-registered, https://osf.io/k9dyw/?view_only=19e6aaab36aa47f4908b6799df791085"
 publication_short: ""
 
-abstract: This study investigated research trends of college students' problem drinking by using text mining. 100 research papers from 2000 to 2021 were collected with the keyword of "college students' problem drinking" from RISS. We aimed to provide preliminary data on college students' problem drinking by identifying latent meaning and patterns of research articles. Results 140 words were selected for the analysis through preprocessing and stemming from the 100 scholarly literature titles, keywords, and abstracts in Korean and English. The most frequent keyword was 'problem drinking,' and 'college,' 'college students,' 'influence,' 'alcohol,' 'interpersonal relationship,' 'depression,' etc., were in the following order. TF-IDF indicated 'drinking motivation,' 'self-efficacy,' 'depression,' 'college life,' 'stress,' 'personality,' 'psychsocial,' 'violence,' etc. Topic modeling implied that 'topic 1' was the leading topic out of 8 categories. Finally, we propose future directions based on the results.
+abstract: The primary goal of the present study is to examine how alcohol consumption affects vocal traits, such as volume, pitch, jitter, shimmer, and socio-emotional rewards. The secondary objective is to detect intoxication from soberness based on the aforementioned acoustic features. We seek to bridge the knowledge gap in this research area and advance our comprehension of how alcohol influences speech features, possibly indicating alcohol's rewarding effects and inebriation from a socio-contextual perspective.
 
 # Summary. An optional shortened abstract.
 #summary:
@@ -63,8 +63,3 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
-
-{{% callout note %}}
-Thanks for checking out!
-{{% /callout %}}
-

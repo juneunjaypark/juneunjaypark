@@ -1,6 +1,6 @@
 ---
 title: UIUC Graduate School
-date: '2023-08-30'
+date: '2023-08-21'
 summary: Clinical/Community Psychology
 ---
 

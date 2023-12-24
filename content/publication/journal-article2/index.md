@@ -1,5 +1,5 @@
 ---
-title: "News article analysis of suicide in adolescents using text mining"
+title: "*News article analysis of suicide in adolescents using text mining*"
 authors:
 - Park J
 - Youn K
@@ -19,7 +19,7 @@ publication_types: ["presentation-conference"]
 
 # Publication name and optional abbreviated publication name.
 publication: "At *the annual conference of the International Next-Generation Convergence Technology Association*"
-publication_short: "At *INCT*"
+publication_short: "Poster presented at the annual conference of the International Next-Generation Convergence Technology Association in Busan, South Korea"
 
 abstract: Word frequency and TF-IDF (Importance) revealed that school violence was the key suicidal factor in adolescents. The surrounding causes were parents, smartphone addiction, school policies, etc., indicating indirect influences.
 

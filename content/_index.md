@@ -163,7 +163,7 @@ sections:
   - block: collection
     id: posts
     content:
-      title: Recent Posts
+      title: Blog Posts
       subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
@@ -229,9 +229,10 @@ sections:
     id: recent publications
     content:
       title: Recent Publications
+      count: 3
       text: |-
         {{% callout note %}}
-        Filter relevant content by [filtering publications](./publication/).
+        Click [filtering publications](./publication/) for more information.
         {{% /callout %}}
       filters:
         folders:
