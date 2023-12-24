@@ -22,7 +22,7 @@ publishDate: '2017-01-01T00:00:00Z'
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["2"]
+publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Journal of Next-generation Convergence Technology Association, 44*(6), 819-840, https://doi.org/10.33097/JNCTA.2022.06.06.1127"
