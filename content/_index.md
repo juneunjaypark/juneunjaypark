@@ -230,10 +230,6 @@ sections:
     content:
       title: Recent Publications
       count: 3
-      text: |-
-        {{% callout note %}}
-        Click [filtering publications](./publication/) for more information.
-        {{% /callout %}}
       filters:
         folders:
           - publication
