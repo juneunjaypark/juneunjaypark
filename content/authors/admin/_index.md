@@ -89,17 +89,16 @@ skills:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/in/juneunjaypark/
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
-
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/juneunjaypark/
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
 Juneun Jay Park is a graduate student at the University of Illinois, Urbana-Champaign.
-Broadly, his research focuses on prevention and intervention in health issues from a socio-contextual perspective. He is particularly interested in employing machine learning and ambulatory assessment to contribute to applied and conceptual disciplines in Psychology. As of 2024, he is conducting how alcohol influences speech prosody and natural language in social drinking contexts by utilizing machine learning.
+Broadly, his research focuses on prevention and intervention in health issues from a socio-contextual perspective. He is particularly interested in employing machine learning and ambulatory assessment to contribute to applied and conceptual disciplines in Psychology. As of 2024, Jay is conducting how alcohol influences speech prosody and natural language in social drinking contexts by utilizing machine learning.
 {style="text-align: justify;"} 
