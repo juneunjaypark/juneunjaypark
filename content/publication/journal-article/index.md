@@ -3,9 +3,6 @@ title: "Text mining: research trends of college students' problem drinking"
 authors:
 - Park J
 - Youn K
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
 date: "2022-07-01T00:00:00Z"
 doi: ""
 

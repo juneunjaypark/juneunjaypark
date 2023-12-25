@@ -3,9 +3,6 @@ title: "Socio-emotional influences of alcohol on speech properties in social int
 authors:
 - Park J
 - Fairbairn C
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
 date: "2024-01-01T00:00:00Z"
 doi: ""
 

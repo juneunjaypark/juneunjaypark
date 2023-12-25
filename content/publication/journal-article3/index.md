@@ -4,9 +4,6 @@ authors:
 - Youn K
 - Jeon H
 - Park J
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
 date: "2022-08-01T00:00:00Z"
 doi: ""
 

@@ -3,9 +3,6 @@ title: "Research trends of emotions, social competence, and self-esteem of child
 authors:
 - Lim H
 - Park J
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
 date: "2022-06-01T00:00:00Z"
 doi: ""
 

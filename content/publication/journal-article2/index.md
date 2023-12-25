@@ -3,9 +3,6 @@ title: "News article analysis of suicide in adolescents using text mining"
 authors:
 - Park J
 - Youn K
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
 date: "2022-09-01T00:00:00Z"
 doi: ""
 
