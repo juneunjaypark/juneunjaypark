@@ -4,6 +4,10 @@ authors:
 - Youn K
 - Jeon H
 - Park J
+author_notes:
+- "Tongmyong University"
+- "Kunjang University College"
+- "University of Utah"
 date: "2022-08-01T00:00:00Z"
 doi: ""
 
