@@ -1,5 +1,5 @@
 ---
-title: "*News article analysis of suicide in adolescents using text mining*"
+title: "News article analysis of suicide in adolescents using text mining"
 authors:
 - Park J
 - Youn K
