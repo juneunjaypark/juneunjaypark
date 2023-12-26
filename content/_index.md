@@ -236,7 +236,7 @@ sections:
         exclude_featured: true
     design:
       columns: '3'
-      view: citation
+      view: card
   - block: contact
     id: contact
     content:
