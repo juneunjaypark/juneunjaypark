@@ -1,16 +1,16 @@
 ---
-title: Can we detect intoxication using voice?
-summary: Ongoing project since October, 2023.
+title: Does our speech pattern change when intoxicated?
+summary: Ongoing project since January, 2024.
 tags:
   - Machine Learning
-date: '2023-12-27T00:00:00Z'
+date: '2024-01-11T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
 
 image:
-  caption: Using Praat to process voice data
+  caption: From OpenAI Whisper Model
   focal_point: Smart
 ---
 
-Praat is one of the powerful tools in linguistic research, allowing researchers to easily analyze voice data. 
+We can use deep learning algorithms to transcribe natural conversations and perform natural language processing, such as semantic analysis.
