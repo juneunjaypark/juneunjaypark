@@ -1,6 +1,6 @@
 ---
 title: Does our speech pattern change when intoxicated?
-summary: Ongoing project since January, 2024.
+summary: Ongoing project as a lead author since January, 2024.
 tags:
   - Machine Learning
 date: '2024-01-11T00:00:00Z'
