@@ -190,7 +190,7 @@ sections:
   - block: portfolio
     id: projects
     content:
-      title: Recent Projects
+      title: Projects
       filters:
         folders:
           - project
