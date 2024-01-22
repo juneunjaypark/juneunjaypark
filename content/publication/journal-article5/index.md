@@ -28,7 +28,7 @@ abstract: The primary goal of the present study is to examine how alcohol consum
 
 tags:
 - Source Themes
-featured: false
+featured: true
 
 # links:
 # - name: ""
