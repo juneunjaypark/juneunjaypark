@@ -1,5 +1,5 @@
 ---
-title: "Socio-emotional influences of alcohol on speech properties in social interaction"
+title: "[Pre-Registered] Socio-emotional influences of alcohol on speech properties in social interaction"
 authors:
 - Park J
 - Fairbairn C
@@ -28,7 +28,7 @@ abstract: The primary goal of the present study is to examine how alcohol consum
 
 tags:
 - Source Themes
-featured: true
+featured: false
 
 # links:
 # - name: ""
