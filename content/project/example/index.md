@@ -13,4 +13,4 @@ image:
   focal_point: Smart
 ---
 
-Praat is one of the powerful tools in linguistic research, allowing researchers to easily analyze voice data. 
+Praat is one of the powerful tools in linguistic research, allowing researchers to easily analyze voice data. We can extract multiple input variables for prediction and classification in machine learning.
