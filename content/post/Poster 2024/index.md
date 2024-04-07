@@ -4,8 +4,7 @@ date: '2024-04-06'
 summary: Can We Detect Alcohol Intoxication Using The Voice?
 ---
 
-![png](poster.png)
-
+[**Original Poster**](JP_Poster.png)
 
 # <center> Authors </center>
 
