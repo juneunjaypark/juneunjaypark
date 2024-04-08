@@ -48,4 +48,6 @@ summary: Can We Detect Alcohol Intoxication Using The Voice?
 
 ## <center> References </center>
 
-Fairbairn, C. E., Sayette, M. A., Amole, M. C., Dimoff, J. D., Cohn, J. F., & Girard, J. M. (2015). Speech volume indexes sex differences in the social-emotional effects of alcohol. *Experimental and Clinical Psychopharmacology*, *23*(4), 255–264. https://doi.org/10.1037/pha0000021
+- Fairbairn, C. E., Sayette, M. A., Amole, M. C., Dimoff, J. D., Cohn, J. F., & Girard, J. M. (2015). Speech volume indexes sex differences in the social-emotional effects of alcohol. *Experimental and Clinical Psychopharmacology*, *23*(4), 255–264. https://doi.org/10.1037/pha0000021
+
+- Suffoletto, B., Anwar, A., Glaister, S., & Sejdic, E. (2023). Detection of Alcohol Intoxication Using Voice Features: A Controlled Laboratory Study. *Journal of studies on alcohol and drugs*, *84*(6), 808–813. https://doi.org/10.15288/jsad.22-00375
