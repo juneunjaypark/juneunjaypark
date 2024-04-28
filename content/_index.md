@@ -63,12 +63,24 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Graduate Research Assitant
+          company: Accessible Healthcare Lab
+          company_url: ''
+          company_logo: uiuc
+          location: Champaign, USA
+          date_start: '2024-05-01'
+          date_end: ''
+          description: |2-
+              
+              * mHealth
+              * Health Behaviors
+              * Machine Learning
+        - title: Graduate Research Assitant
           company: LAS Administration
           company_url: ''
           company_logo: uiuc
           location: Champaign, USA
           date_start: '2023-11-01'
-          date_end: ''
+          date_end: '2024-05-01'
           description: |2-
               
               * Natural Language Processing
