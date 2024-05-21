@@ -29,8 +29,8 @@ bio: My research focuses on health issues from a socio-contextual perspective.
 
 # Interests to show in About widget
 interests:
-  - Health Psychology
   - mHealth
+  - Health Psychology
   - Machine Learning
   - Ambulatory Assessment
 
