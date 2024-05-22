@@ -73,19 +73,8 @@ sections:
               
               * mHealth
               * Health Behaviors
-              * Machine Learning
-        - title: Graduate Research Assitant
-          company: LAS Administration
-          company_url: ''
-          company_logo: uiuc
-          location: Champaign, USA
-          date_start: '2023-11-01'
-          date_end: '2024-05-01'
-          description: |2-
-              
-              * Natural Language Processing
-              * Big-Data Analysis
-              * Thematic Analysis
+              * Artificial Intelligence
+
         - title: Graduate Research Assitant
           company: Alcohol Research Lab
           company_url: ''
@@ -95,8 +84,8 @@ sections:
           date_end: ''
           description: |2-
               
-              * Clinical/Community Research
-              * Multimethodology
+              * Addiction
+              * Social Contexts
               * Machine Learning
         #- title: Research Assistant
         #  company: Ulsan Public Agency for Social Service
@@ -158,18 +147,31 @@ sections:
         #      * Qualitative Research 
         #      * Multisystetmic Therapy 
         #      * Field Research
-        - title: Undergraduate Research Assitant
-          company: Counseling/Psychotherapy Lab
+        - title: Graduate Research Assitant
+          company: LAS Administration
           company_url: ''
-          company_logo: uofu
-          location: Salt Lake City, USA
-          date_start: '2018-08-01'
-          date_end: '2019-08-01'
+          company_logo: uiuc
+          location: Champaign, USA
+          date_start: '2023-11-01'
+          date_end: '2024-05-01'
           description: |2-
               
-              * Counseling/Psychotherapy Research
-              * Qualitative Research
-              * Text-Mining
+              * Natural Language Processing
+              * Big-Data Analysis
+              * Thematic Analysis
+        
+        #- title: Undergraduate Research Assitant
+        #  company: Counseling/Psychotherapy Lab
+        #  company_url: ''
+        #  company_logo: uofu
+        #  location: Salt Lake City, USA
+        #  date_start: '2018-08-01'
+        #  date_end: '2019-08-01'
+        #  description: |2-
+              
+        #      * Counseling/Psychotherapy Research
+        #      * Qualitative Research
+        #      * Text-Mining
     design:
       columns: '3'
   - block: collection
