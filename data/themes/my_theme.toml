@@ -1,0 +1,18 @@
+[params]
+  # Primary color. Used for links, buttons, etc.
+primary_color = "#13294b"  # Dark Navy, UIUC
+
+  # Secondary color. Used for backgrounds, sections, etc.
+secondary_color = "#E84A27"  # Dark Orange, UIUC
+
+[params.colors]
+  # Background color for the body
+background = "#13294b"  # Dark Navy
+
+  # Text color on the primary background
+text = "#ffffff"  # White text for contrast
+
+  # Other color settings can include:
+border = "#E84A27"  # Dark Orange
+link = "#E84A27"  # Dark Orange
+link_hover = "#f77f00"  # A lighter shade of orange for hover effects
