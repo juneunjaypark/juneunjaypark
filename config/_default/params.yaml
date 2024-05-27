@@ -64,7 +64,7 @@ locale:
 features:
   syntax_highlighter:
     theme_light: github-light
-    theme_dark: slate
+    theme_dark: Cayman
   math:
     enable: false
   privacy_pack:
