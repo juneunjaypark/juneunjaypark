@@ -25,7 +25,7 @@ organizations:
     url: https://psychology.illinois.edu/directory/profile/juneunp2
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research focuses on health issues from a socio-contextual perspective. 
+bio: My research focuses on health behaviors from a psychological perspective. 
 
 # Interests to show in About widget
 interests:
@@ -99,6 +99,6 @@ social:
 highlight_name: true
 ---
 
-Juneun Jay Park is a graduate student at the University of Illinois, Urbana-Champaign.
-Broadly, his research focuses on prevention and intervention in health issues from a socio-contextual perspective. He is particularly interested in employing machine learning and ambulatory assessment to contribute to applied and conceptual disciplines in Psychology. As of 2024, Jay is conducting how alcohol influences speech prosody and natural language in social drinking contexts by utilizing machine learning.
+Jay is a graduate student at the University of Illinois, Urbana-Champaign.
+Broadly, his research focuses on health behaviors from a psychological perspective. He is specifically interested in mHealth to develop sustainable healthy habits and improve well-being. For ongoing research projects, please refer to the projects below.
 {style="text-align: justify;"} 
