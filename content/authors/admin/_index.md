@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Juneun Jay Park
+title: Jay Park
 
 # Name pronunciation (optional)
 name_pronunciation:
