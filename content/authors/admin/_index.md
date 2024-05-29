@@ -100,5 +100,5 @@ highlight_name: true
 ---
 
 Jay is a graduate student at the University of Illinois, Urbana-Champaign.
-Broadly, his research focuses on health behaviors from a psychological perspective. He is specifically interested in mHealth to develop sustainable healthy habits and improve well-being. For ongoing research projects, please refer to the projects below.
+Broadly, his research focuses on health behaviors from a psychological perspective. He is specifically interested in mHealth to develop sustainable healthy habits and improve well-being. For ongoing research, please refer to the projects below.
 {style="text-align: justify;"} 

@@ -39,7 +39,7 @@ sections:
   - block: about.biography
     id: about
     content:
-      title: Biography
+      title: Bio
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   - block: skills
@@ -177,7 +177,7 @@ sections:
   - block: collection
     id: posts
     content:
-      title: Blog Posts
+      title: Blog
       subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
@@ -257,7 +257,7 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Don't hesitate to reach out via university email below 🙂
+        Jay is open to collaborations! Don't hesitate to reach out via university email 🙂
       # Contact (add or remove contact options as necessary)
       email: juneunp2@illinois.edu
       address:
