@@ -242,7 +242,7 @@ sections:
   - block: collection
     id: recent publications
     content:
-      title: Recent Publications
+      title: Publications
       count: 3
       filters:
         folders:
