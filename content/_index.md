@@ -257,21 +257,21 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Jay is responsive to emails! Don't hesitate to directly reach out via university email below 🙂
+        Don't hesitate to reach out via university email below 🙂
       # Contact (add or remove contact options as necessary)
       email: juneunp2@illinois.edu
       address:
-        street: 603 E Daniel St.
-        city: Champaign
+        street: 906 S. Goodwin Ave
+        city: Urbana
         region: IL
         postcode: '61820'
         country: United States
         country_code: US
-      directions: Room 353
+      directions: Room 112
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
-        latitude: '40.107830'
-        longitude: '-88.229855'  
+        latitude: '40.104924650029076'
+        longitude: '-88.22265697635895'  
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
