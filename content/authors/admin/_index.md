@@ -29,8 +29,8 @@ bio: My research focuses on health behaviors from a psychological perspective.
 
 # Interests to show in About widget
 interests:
+  - Health Behaviors
   - mHealth
-  - Health Psychology
   - Machine Learning
   - Ambulatory Assessment
 
