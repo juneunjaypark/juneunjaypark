@@ -31,6 +31,7 @@ bio: My research focuses on health behaviors from a psychological perspective.
 interests:
   - Health Behaviors
   - Motivation
+  - mHealth
   - Machine Learning/EMA
 
 # Education to show in About widget
