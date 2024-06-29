@@ -25,12 +25,11 @@ organizations:
     url: https://psychology.illinois.edu/directory/profile/juneunp2
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research focuses on health behaviors from a psychological perspective. 
+bio: My research focuses on addiction problems from social contexts. 
 
 # Interests to show in About widget
 interests:
-  - Health Behaviors
-  - Motivation
+  - Addiction
   - mHealth
   - Machine Learning/EMA
 
@@ -99,5 +98,5 @@ social:
 highlight_name: true
 ---
 
-Jay is a graduate student at the University of Illinois, Urbana-Champaign. His research focuses on developing sustainable health behavior habits to enhance well-being through a combination of in-lab and mobile methods. Specifically, Jay is interested in psychological factors that affect one's mindset and motivation for health behaviors. Gaining insights from these factors allows us to make actionable, tailored behavioral planning that supports long-term changes. Before graduate school, Jay had diverse working experiences as a road cyclist, guitarist, and military counterintelligence agent.
+Jay is a graduate student at the University of Illinois, Urbana-Champaign. His research focuses on alcohol addiction problems through a combination of in-lab and mobile methods. Jay strives to understand how socio-contextual factors contribute to the issues. Before graduate school, Jay had diverse working experiences as a road cyclist, guitarist, and military counterintelligence agent.
 {style="text-align: justify;"} 
