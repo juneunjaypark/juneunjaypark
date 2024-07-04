@@ -1,7 +1,7 @@
 ---
-title: Poster Presentation
+title: Can We Detect Alcohol Intoxication Using The Voice?
 date: '2024-04-06'
-summary: Can We Detect Alcohol Intoxication Using The Voice?
+summary: Regional Conference in Champaign, IL
 ---
 
 [**Original Poster (Clear Image) Link Found Here!**](JP_Poster.png)
