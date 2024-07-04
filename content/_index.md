@@ -63,19 +63,6 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Graduate Research Assitant
-          company: Accessible Healthcare Lab
-          company_url: ''
-          company_logo: uiuc
-          location: Champaign, USA
-          date_start: '2024-05-01'
-          date_end: ''
-          description: |2-
-              
-              * mHealth
-              * Health Behaviors
-              * Artificial Intelligence
-
-        - title: Graduate Research Assitant
           company: Alcohol Research Lab
           company_url: ''
           company_logo: uiuc
@@ -87,6 +74,20 @@ sections:
               * Addiction
               * Social Contexts
               * Machine Learning
+
+        - title: Graduate Research Assitant
+          company: Accessible Healthcare Lab
+          company_url: ''
+          company_logo: uiuc
+          location: Champaign, USA
+          date_start: '2024-05-01'
+          date_end: ''
+          description: |2-
+              
+              * mHealth
+              * Health Behaviors
+              * Artificial Intelligence
+              
         #- title: Research Assistant
         #  company: Ulsan Public Agency for Social Service
         #  company_url: ''
@@ -261,17 +262,17 @@ sections:
       # Contact (add or remove contact options as necessary)
       email: juneunp2@illinois.edu
       address:
-        street: 906 S. Goodwin Ave
-        city: Urbana
+        street: 603 E Daniel St
+        city: Champaign
         region: IL
         postcode: '61820'
         country: United States
         country_code: US
-      directions: Room 112, Freer Hall
+      directions: Room 353, Department of Psychology
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
-        latitude: '40.104924650029076'
-        longitude: '-88.22265697635895'  
+        latitude: '40.10763476847744'
+        longitude: '-88.23003512698567'  
       # Automatically link email and phone or display as text?
       #autolink: true
       # Email form provider
