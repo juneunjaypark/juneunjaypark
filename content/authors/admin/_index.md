@@ -29,9 +29,9 @@ bio: My research focuses on addiction problems from social contexts.
 
 # Interests to show in About widget
 interests:
-  - Addiction
-  - mHealth
-  - Machine Learning/EMA
+  - Alcohol Addiction
+  - Social Contexts
+  - Machine Learning/mHealth
 
 # Education to show in About widget
 education:
