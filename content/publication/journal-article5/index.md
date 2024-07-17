@@ -18,7 +18,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Pre-registered, https://osf.io/k9dyw/?view_only=19e6aaab36aa47f4908b6799df791085"
+publication: "Pre-registered, https://doi.org/10.17605/OSF.IO/AKY9B"
 publication_short: ""
 
 abstract: The primary goal of the present study is to examine how alcohol consumption affects vocal traits, such as volume, pitch, jitter, shimmer, and socio-emotional rewards. The secondary objective is to detect intoxication from soberness based on the aforementioned acoustic features. We seek to bridge the knowledge gap in this research area and advance our comprehension of how alcohol influences speech features, possibly indicating alcohol's rewarding effects and inebriation from a socio-contextual perspective.
