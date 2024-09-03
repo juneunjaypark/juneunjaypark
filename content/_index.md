@@ -81,7 +81,7 @@ sections:
           company_logo: uiuc
           location: Champaign, USA
           date_start: '2024-05-01'
-          date_end: ''
+          date_end: '2024-08-01'
           description: |2-
               
               * mHealth
