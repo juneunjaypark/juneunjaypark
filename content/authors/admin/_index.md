@@ -29,7 +29,7 @@ bio: My research focuses on addiction problems from social contexts.
 
 # Interests to show in About widget
 interests:
-  - Alcohol Addiction
+  - Addiction
   - Social Contexts
   - Machine Learning/mHealth
 
@@ -99,7 +99,7 @@ highlight_name: true
 ---
 
 <p style="text-align: justify;">
-Jay is a graduate student at the University of Illinois, Urbana-Champaign. Broadly, he is interested in mental health research and applied methodologies for real-world impact. Specifically, his research focuses on alcohol addiction problems through a combination of in-lab and mobile methods.
+Jay is a graduate student at the University of Illinois, Urbana-Champaign. Broadly, he is interested in mental health research and applied methodologies for real-world impact. Specifically, his research focuses on addiction problems through a combination of in-lab and mobile methods.
 </p> 
 
 <p style="text-align: justify;">
