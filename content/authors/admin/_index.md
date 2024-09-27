@@ -98,10 +98,10 @@ social:
 highlight_name: true
 ---
 
-<p style="text-indent: 30px; text-align: justify;">
+<p style="text-align: justify;">
 Jay is a graduate student at the University of Illinois, Urbana-Champaign. His research focuses on alcohol addiction problems through a combination of in-lab and mobile methods. Jay strives to understand how socio-contextual factors contribute to addiction.
 </p> 
 
-<p style="text-indent: 30px; text-align: justify;">
+<p style="text-align: justify;">
 Before graduate school, Jay had diverse working experiences as a road cyclist, guitarist, and military counterintelligence agent.
 </p>
