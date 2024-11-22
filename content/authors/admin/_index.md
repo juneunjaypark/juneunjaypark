@@ -21,7 +21,7 @@ role: Graduate Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: UIUC Profile
+  - name: UIUC Official Profile
     url: https://psychology.illinois.edu/directory/profile/juneunp2
 
 # Short bio (displayed in user profile at end of posts)
