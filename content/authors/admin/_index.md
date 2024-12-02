@@ -97,6 +97,9 @@ social:
   - icon: google-scholar
     icon_pack: fab
     link: https://scholar.google.com/citations?user=V_NSpG0AAAAJ&hl=en&authuser=2
+  - icon: google-scholar
+    icon_pack: brands
+    link: https://scholar.google.com/citations?user=V_NSpG0AAAAJ&hl=en&authuser=2   
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
