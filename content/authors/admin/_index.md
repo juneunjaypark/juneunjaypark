@@ -95,10 +95,10 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/juneunjaypark/
   - icon: google-scholar
-    icon_pack: fab
+    icon_pack: Bluesky
     link: https://scholar.google.com/citations?user=V_NSpG0AAAAJ&hl=en&authuser=2
   - icon: google-scholar
-    icon_pack: brands
+    icon_pack: Brands
     link: https://scholar.google.com/citations?user=V_NSpG0AAAAJ&hl=en&authuser=2   
 # Highlight the author in author lists? (true/false)
 highlight_name: true
