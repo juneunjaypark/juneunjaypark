@@ -24,11 +24,6 @@ organizations:
   - name: UIUC Official Profile
     url: https://psychology.illinois.edu/directory/profile/juneunp2
 
-    # Organizations/Affiliations to show in About widget
-organizations:
-  - name: Google Scholar
-    url: https://scholar.google.com/citations?user=V_NSpG0AAAAJ&hl=en&authuser=2
-
 # Short bio (displayed in user profile at end of posts)
 bio: My research focuses on addiction problems from social contexts. 
 
@@ -100,7 +95,7 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/juneunjaypark/
   - icon: google-scholar
-    icon_pack: brands
+    icon_pack: fab
     link: https://scholar.google.com/citations?user=V_NSpG0AAAAJ&hl=en&authuser=2
 # Highlight the author in author lists? (true/false)
 highlight_name: true
