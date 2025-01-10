@@ -178,7 +178,7 @@ sections:
   - block: collection
     id: posts
     content:
-      title: Blog
+      title: Photos
       subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
@@ -251,7 +251,7 @@ sections:
         exclude_featured: true
     design:
       columns: '3'
-      view: card
+      view: compact
   - block: contact
     id: contact
     content:
@@ -268,7 +268,7 @@ sections:
         postcode: '61820'
         country: United States
         country_code: US
-      directions: Room 353, Department of Psychology
+      directions: Room 308, Department of Psychology
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
         latitude: '40.10763476847744'
