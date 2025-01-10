@@ -38,7 +38,7 @@ education:
   courses:
     - course: M.S. in Psychological Science (GPA 4.0/4.0)
       institution: University of Illinois, Urbana-Champaign
-      year: (May 2025 Expected)
+      year: 2025
     - course: B.S. in Psychology (GPA 4.0/4.0)
       institution: University of Utah
       year: 2019
@@ -107,4 +107,8 @@ Jay is a graduate student in Clinical-Community Psychology at the University of 
 
 <p style="text-align: justify;">
 Before graduate school, Jay gained diverse work experience as a road cyclist, guitarist, and military counterintelligence agent. In his free time, he enjoys road cycling, going on road trips, and taking pictures.
+</p>
+
+<p style="text-align: justify;">
+# Last update: 1/11/2025
 </p>
