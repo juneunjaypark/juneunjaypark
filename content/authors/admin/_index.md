@@ -38,7 +38,7 @@ education:
   courses:
     - course: M.S. in Psychological Science (GPA 4.0/4.0)
       institution: University of Illinois, Urbana-Champaign
-      year: 2025 (Expected)
+      year: (May 2025 Expected)
     - course: B.S. in Psychology (GPA 4.0/4.0)
       institution: University of Utah
       year: 2019
