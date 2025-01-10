@@ -49,7 +49,7 @@ skills:
   - name: Quantitative
     items:
       - name: Python
-        description: 'Machine Learning'
+        description: 'Machine Learning & Natural Language Processing'
         percent: 95
         icon: python
         icon_pack: fab
