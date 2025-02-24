@@ -1,6 +1,6 @@
 ---
 title: Can we detect intoxication using voice?
-summary: Ongoing project as a lead author since October, 2023.
+summary: Manuscript submitted to ACER.
 tags:
   - Machine Learning
 date: '2023-12-27T00:00:00Z'
