@@ -1,5 +1,5 @@
 ---
-title: How can we monitor alcohol consumption using smartwatches?
+title: Real-time alcohol monitoring using smartwatches?
 summary: Ongoing project as a secondary author since January, 2025.
 tags:
   - Machine Learning

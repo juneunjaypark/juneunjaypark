@@ -180,6 +180,7 @@ sections:
     id: projects
     content:
       title: Research Projects
+      count: 3
       filters:
         folders:
           - project
