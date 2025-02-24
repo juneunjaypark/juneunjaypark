@@ -185,7 +185,7 @@ sections:
         folders:
           - project
       # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
-      default_button_index: 0
+      default_button_index: 'Machine Learning'
       # Filter toolbar (optional).
       # Add or remove as many filters (`filter_button` instances) as you like.
       # To show all items, set `tag` to "*".

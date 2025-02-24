@@ -9,7 +9,7 @@ date: '2025-01-10T00:00:00Z'
 external_link: ''
 
 image:
-  caption: Conceptual Model of the Study 
+  caption: BACtrack Skyn | Wearable Alcohol Biosensor
   focal_point: Smart
 ---
 
