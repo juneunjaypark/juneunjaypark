@@ -102,11 +102,15 @@ highlight_name: true
 ---
 
 <p style="text-align: justify;">
-Jay is a graduate student in Clinical-Community Psychology at the University of Illinois, Urbana-Champaign. Broadly, he is interested in mental health and applied methodologies for real-world impact. Specifically, his research focuses on addiction problems through a combination of in-lab and mobile methods.
+Jay is a graduate student in Clinical-Community Psychology at the University of Illinois, Urbana-Champaign. His research focuses on addiction through a combination of in-lab and ambulatory methods to capture real-world behavior and physiology.
+</p>
+
+<p style="text-align: justify;">
+Ultimately, Jay aims to develop context-sensitive interventions that provide timely support, reduce the risk of relapse, and promote long-term recovery.
 </p> 
 
 <p style="text-align: justify;">
-Before graduate school, Jay gained diverse work experience as a road cyclist, guitarist, and military counterintelligence agent. In his free time, he enjoys road cycling, going on road trips, and taking pictures.
+Before graduate school, Jay gained diverse work experience as a road cyclist, guitarist, and military counterintelligence agent.
 </p>
 
 <p style="text-align: justify;">
