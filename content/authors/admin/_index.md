@@ -109,10 +109,4 @@ Jay is a graduate student in Clinical-Community Psychology at the University of 
 Ultimately, Jay aims to develop context-sensitive interventions that provide timely support, reduce the risk of relapse, and promote long-term recovery.
 </p> 
 
-<p style="text-align: justify;">
-Before graduate school, Jay gained diverse work experience as a road cyclist, guitarist, and military counterintelligence agent.
-</p>
 
-<p style="text-align: justify;">
-# Last update: 2/15/2025
-</p>
