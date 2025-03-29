@@ -106,7 +106,7 @@ Jay is a graduate student in Clinical-Community Psychology at the University of 
 </p>
 
 <p style="text-align: justify;">
-Ultimately, Jay aims to develop context-sensitive interventions that provide timely support, reduce the risk of relapse, and promote long-term recovery.
+Ultimately, Jay aims to develop adaptive interventions that provide timely support, reduce the risk of relapse, and promote long-term recovery.
 </p> 
 
 
