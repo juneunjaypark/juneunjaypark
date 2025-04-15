@@ -71,7 +71,7 @@ sections:
           date_end: ''
           description: |2-
               
-              * Alcohol Addiction
+              * Addiction
               * Social Contexts
               * Machine Learning
 
