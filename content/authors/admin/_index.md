@@ -25,13 +25,13 @@ role: PhD Student
 #    url: https://psychology.illinois.edu/directory/profile/juneunp2
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research focuses on addiction and sleep.
+bio: My research focuses on addiction and sleep
 
 # Interests to show in About widget
 interests:
   - Addiction
   - Sleep
-  - Digital Interventions
+  - Ecological Assessment
 
 # Education to show in About widget
 education:
