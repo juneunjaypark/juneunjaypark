@@ -4,6 +4,6 @@ img[src*="mizzou.svg"] {
 }
 
 object[data*="mizzou.svg"] {
-    width: 150px;
+    width: 100px;
     height: auto;
 }
