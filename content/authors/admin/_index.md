@@ -31,7 +31,7 @@ bio: My research focuses on addiction and sleep.
 interests:
   - Addiction
   - Sleep
-  - Machine Learning/mHealth
+  - Digital Interventions
 
 # Education to show in About widget
 education:
