@@ -277,19 +277,19 @@ sections:
       text: |-
         Jay is open to collaborations! Don't hesitate to reach out via university email 🙂
       # Contact (add or remove contact options as necessary)
-      email: juneunp2@illinois.edu
+      email: jaypark@missouri.edu
       address:
-        street: 603 E Daniel St
-        city: Champaign
-        region: IL
-        postcode: '61820'
+        street: 200 S 7th St
+        city: Columbia
+        region: MO
+        postcode: '65211'
         country: United States
         country_code: US
-      directions: Room 308, Department of Psychology
+      directions: Room 108, Department of Psychological Sciences
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
-        latitude: '40.10763476847744'
-        longitude: '-88.23003512698567'  
+        latitude: '38.94921'
+        longitude: '-92.32933'  
       # Automatically link email and phone or display as text?
       #autolink: true
       # Email form provider
