@@ -65,7 +65,7 @@ sections:
         - title: Graduate Research Assitant
           company: Health Intervention and Treatment Research Lab
           company_url: ''
-          company_logo: /media/icons/brands/mizzou.svg
+          company_logo: mizzou
           location: Columbia, USA
           date_start: '2025-08-01'
           date_end: ''

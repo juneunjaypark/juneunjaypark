@@ -115,13 +115,3 @@ security:
   # Allow frame for embedding speaker notes in slides
   allow_frame: true
 
-
-# Extensions
-extensions:
-  cms:
-    branch: main
-    local_backend: false
-  academicons:
-    enable: true
-  customCSS:
-    - css/custom.css
