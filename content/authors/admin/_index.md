@@ -17,15 +17,15 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Graduate Student
+role: PhD Student
 
 # Organizations/Affiliations to show in About widget
-organizations:
-  - name: UIUC Official Profile
-    url: https://psychology.illinois.edu/directory/profile/juneunp2
+#organizations:
+#  - name: UIUC Official Profile
+#    url: https://psychology.illinois.edu/directory/profile/juneunp2
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research focuses on addiction problems from social contexts. 
+bio: My research focuses on addiction and sleep.
 
 # Interests to show in About widget
 interests:
@@ -36,6 +36,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
+    - course: Ph.D. in Clinical Psychology
+      institution: University of Missouri
+      year: In Progress
     - course: M.S. in Psychological Science (GPA 4.0/4.0)
       institution: University of Illinois, Urbana-Champaign
       year: 2025
@@ -102,11 +105,6 @@ highlight_name: true
 ---
 
 <p style="text-align: justify;">
-Jay is a graduate student in Clinical-Community Psychology at the University of Illinois, Urbana-Champaign. His research focuses on addiction through a combination of in-lab and ambulatory methods to capture real-world behavior and physiology.
-</p>
-
-<p style="text-align: justify;">
-Ultimately, Jay aims to develop adaptive interventions that provide timely support, reduce the risk of relapse, and promote long-term recovery.
-</p> 
+Jay is a PhD Student in Clinical Psychology at the University of Missouri. His research focuses on addiction and sleep, exploring real-world behavioral, contextual, and physiological dynamics. He aims to contribute to the development of adaptive interventions that provide context-sensitive support, reduce the risk of relapse, and promote long-term recovery. To advance these goals, he strives to leverage wearable and mobile sensing technologies to capture everyday behavior beyond the laboratory.
 
 
