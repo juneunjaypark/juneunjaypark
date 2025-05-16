@@ -66,8 +66,6 @@ sections:
           company: Health Intervention and Treatment Research Lab
           company_url: ''
           company_logo: mizzou
-          logo_width: 100px
-          logo_height: auto
           location: Columbia, USA
           date_start: '2025-08-01'
           date_end: ''

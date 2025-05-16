@@ -1,0 +1,9 @@
+img[src*="mizzou.svg"] {
+    width: 150px; /* Adjust this as you want */
+    height: auto;
+}
+
+object[data*="mizzou.svg"] {
+    width: 150px;
+    height: auto;
+}
