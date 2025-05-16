@@ -288,8 +288,8 @@ sections:
       directions: Room 108, Department of Psychological Sciences
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
-        latitude: '38.94841'
-        longitude: '-92.33353'  
+        latitude: '38.94923'
+        longitude: '-92.32938'  
       # Automatically link email and phone or display as text?
       #autolink: true
       # Email form provider
