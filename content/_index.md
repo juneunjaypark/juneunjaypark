@@ -63,6 +63,19 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Graduate Research Assitant
+          company: Health Intervention and Treatment Research Lab
+          company_url: ''
+          company_logo: mizzou
+          location: Columbia, USA
+          date_start: '2025-08-01'
+          date_end: ''
+          description: |2-
+              
+              * Addiction
+              * Sleep
+              * Digital Interventions
+
+        - title: Graduate Research Assitant
           company: Alcohol Research Lab
           company_url: ''
           company_logo: uiuc
@@ -148,18 +161,18 @@ sections:
         #      * Qualitative Research 
         #      * Multisystetmic Therapy 
         #      * Field Research
-        - title: Graduate Research Assitant
-          company: LAS Administration
-          company_url: ''
-          company_logo: uiuc
-          location: Champaign, USA
-          date_start: '2023-11-01'
-          date_end: '2024-05-01'
-          description: |2-
+        #- title: Graduate Research Assitant
+        #  company: LAS Administration
+        #  company_url: ''
+        #  company_logo: uiuc
+        #  location: Champaign, USA
+        #  date_start: '2023-11-01'
+        #  date_end: '2024-05-01'
+        #  description: |2-
               
-              * Natural Language Processing
-              * Big-Data Analysis
-              * Thematic Analysis
+        #      * Natural Language Processing
+        #      * Big-Data Analysis
+        #      * Thematic Analysis
         
         #- title: Undergraduate Research Assitant
         #  company: Counseling/Psychotherapy Lab
