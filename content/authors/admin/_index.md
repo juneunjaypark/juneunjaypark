@@ -38,7 +38,7 @@ education:
   courses:
     - course: Ph.D. in Clinical Psychology
       institution: University of Missouri
-      year: In Progress
+      year: in progress
     - course: M.S. in Psychological Science (GPA 4.0/4.0)
       institution: University of Illinois, Urbana-Champaign
       year: 2025

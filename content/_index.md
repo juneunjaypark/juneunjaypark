@@ -88,18 +88,18 @@ sections:
               * Social Contexts
               * Machine Learning
 
-        - title: Graduate Research Assitant
-          company: Accessible Healthcare Lab
-          company_url: ''
-          company_logo: uiuc
-          location: Champaign, USA
-          date_start: '2024-05-01'
-          date_end: '2024-08-01'
-          description: |2-
+        #- title: Graduate Research Assitant
+        #  company: Accessible Healthcare Lab
+        #  company_url: ''
+        #  company_logo: uiuc
+        #  location: Champaign, USA
+        #  date_start: '2024-05-01'
+        #  date_end: '2024-08-01'
+        #  description: |2-
               
-              * mHealth
-              * Health Behaviors
-              * Artificial Intelligence
+        #      * mHealth
+        #      * Health Behaviors
+        #      * Artificial Intelligence
               
         #- title: Research Assistant
         #  company: Ulsan Public Agency for Social Service
