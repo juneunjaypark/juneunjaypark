@@ -105,11 +105,11 @@ highlight_name: true
 ---
 
 <p style="text-align: justify;">
-Juneun Jay Park is a Clinical Psychology PhD Student at the University of Missouri. 
+Juneun Jay Park is a PhD student in Clinical Psychology at the University of Missouri. 
 </p>
 
 <p style="text-align: justify;">
-His research focuses on addiction and sleep, exploring real-world behavioral, contextual, and physiological dynamics. He aims to contribute to the development of adaptive interventions that provide context-sensitive support, reduce the risk of relapse, and promote long-term recovery. 
+Jay's research focuses on addiction and sleep, exploring real-world behavioral, contextual, and physiological dynamics. He aims to contribute to the development of adaptive interventions that provide context-sensitive support, reduce the risk of relapse, and promote long-term recovery. 
 </p>
 
 <p style="text-align: justify;">
