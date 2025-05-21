@@ -105,6 +105,10 @@ highlight_name: true
 ---
 
 <p style="text-align: justify;">
-Jay is a PhD Student in Clinical Psychology at the University of Missouri. His research focuses on addiction and sleep, exploring real-world behavioral, contextual, and physiological dynamics. He aims to contribute to the development of adaptive interventions that provide context-sensitive support, reduce the risk of relapse, and promote long-term recovery. To advance these goals, he strives to leverage wearable and mobile sensing technologies to capture everyday behavior beyond the laboratory.
+Jay is a PhD Student in Clinical Psychology at the University of Missouri. 
+</p>
+
+<p style="text-align: justify;">
+His research focuses on addiction and sleep, exploring real-world behavioral, contextual, and physiological dynamics. He aims to contribute to the development of adaptive interventions that provide context-sensitive support, reduce the risk of relapse, and promote long-term recovery. To advance these goals, he strives to leverage wearable and mobile sensing technologies to capture everyday behavior beyond the laboratory.
 
 
