@@ -105,7 +105,7 @@ highlight_name: true
 ---
 
 <p style="text-align: justify;">
-Jay Park is a Clinical Psychology PhD Student at the University of Missouri. 
+Juneun Jay Park is a Clinical Psychology PhD Student at the University of Missouri. 
 </p>
 
 <p style="text-align: justify;">
