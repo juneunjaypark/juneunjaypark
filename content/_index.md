@@ -174,20 +174,20 @@ sections:
         #      * Big-Data Analysis
         #      * Thematic Analysis
         
-        #- title: Undergraduate Research Assitant
-        #  company: Counseling/Psychotherapy Lab
-        #  company_url: ''
-        #  company_logo: uofu
-        #  location: Salt Lake City, USA
-        #  date_start: '2018-08-01'
-        #  date_end: '2019-08-01'
-        #  description: |2-
+        - title: Undergraduate Research Assitant
+          company: Counseling/Psychotherapy Lab
+          company_url: ''
+          company_logo: uofu
+          location: Salt Lake City, USA
+          date_start: '2018-08-01'
+          date_end: '2019-08-01'
+          description: |2-
               
-        #      * Counseling/Psychotherapy Research
-        #      * Qualitative Research
-        #      * Text-Mining
-    #design:
-     # columns: '3'
+              * Counseling/Psychotherapy Research
+              * Qualitative Research
+              * Text-Mining
+    design:
+      columns: '3'
 
   - block: portfolio
     id: projects
