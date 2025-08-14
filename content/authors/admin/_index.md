@@ -20,12 +20,12 @@ superuser: true
 role: PhD Student
 
 # Organizations/Affiliations to show in About widget
-#organizations:
-#  - name: UIUC Official Profile
-#    url: https://psychology.illinois.edu/directory/profile/juneunp2
+organizations:
+  - name: University Official Profile
+    url: https://psychology.missouri.edu/people/park
 
 # Short bio (displayed in user profile at end of posts)
-bio: Aspiring addiction scientist
+bio: Addiction scientist
 
 # Interests to show in About widget
 interests:
