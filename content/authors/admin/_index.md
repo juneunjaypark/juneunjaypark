@@ -25,13 +25,13 @@ organizations:
     url: https://psychology.missouri.edu/people/park
 
 # Short bio (displayed in user profile at end of posts)
-bio: Addiction scientist
+bio: Addiction Scientist
 
 # Interests to show in About widget
 interests:
   - Addiction
-  - Sleep
-  - Ecological Assessment
+  - Behavioral Sleep Medicine
+  - Ecological Momentary Assessment
 
 # Education to show in About widget
 education:
@@ -113,6 +113,6 @@ His research focuses on addiction and sleep, exploring real-world behavioral, co
 </p>
 
 <p style="text-align: justify;">
-To advance these goals, Jay strives to leverage wearable and mobile sensing technologies to capture everyday behavior beyond the laboratory.
+To advance these goals, Jay strives to leverage wearable biosensors and mobile sensing technologies to capture everyday behavior beyond the laboratory.
 
 
