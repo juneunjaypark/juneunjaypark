@@ -32,6 +32,7 @@ interests:
   - Addiction
   - Behavioral Sleep Medicine
   - Ecological Momentary Assessment
+  - Wearable Biosensors
 
 # Education to show in About widget
 education:
