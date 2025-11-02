@@ -285,7 +285,7 @@ sections:
         postcode: '65211'
         country: United States
         country_code: US
-      directions: Room 108, Department of Psychological Sciences
+      directions: Room 108, Psychology Building
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
         latitude: '38.94923'
