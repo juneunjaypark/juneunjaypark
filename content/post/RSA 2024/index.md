@@ -1,5 +1,5 @@
 ---
-title: Effects of alcohol on speech prosody
+title: Research Society on Alcohol 2024
 date: '2024-06-25'
 summary: National Conference in Minneapolis, MN
 ---
