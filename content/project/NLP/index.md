@@ -1,6 +1,6 @@
 ---
 title: Does our speech pattern change when intoxicated?
-summary: 
+summary: Whisper model
 tags:
   - Machine Learning
 date: '2024-01-11T00:00:00Z'

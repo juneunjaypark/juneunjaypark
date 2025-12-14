@@ -1,6 +1,6 @@
 ---
 title: How psychological factors influence health-promoting behaviors?
-summary: Self-efficacy and depressive symptoms are explored.
+summary: Self-efficacy and depressive symptoms 
 tags:
   - Statistics
 date: '2024-05-21T00:00:00Z'

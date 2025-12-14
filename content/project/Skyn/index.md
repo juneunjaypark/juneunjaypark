@@ -1,6 +1,6 @@
 ---
 title: Real-time alcohol monitoring using smartwatches?
-summary:
+summary: Transdermal biosensor tech
 tags:
   - Machine Learning
 date: '2025-01-10T00:00:00Z'
