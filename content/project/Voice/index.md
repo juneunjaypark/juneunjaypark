@@ -1,6 +1,6 @@
 ---
 title: Can we detect intoxication using voice?
-summary: Manuscript submitted to ACER.
+summary: 
 tags:
   - Machine Learning
 date: '2023-12-27T00:00:00Z'

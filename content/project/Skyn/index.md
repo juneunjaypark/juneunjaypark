@@ -1,6 +1,6 @@
 ---
 title: Real-time alcohol monitoring using smartwatches?
-summary: Ongoing project as a secondary author since January, 2025.
+summary:
 tags:
   - Machine Learning
 date: '2025-01-10T00:00:00Z'
