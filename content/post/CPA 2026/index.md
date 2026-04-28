@@ -1,6 +1,6 @@
 ---
 title: Collaborative Perspectives on Addiction 2026
-date: '2026-04-29'
+date: '2026-04-26'
 summary: National Conference in Kansas City, KS
 ---
 
