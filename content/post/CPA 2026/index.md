@@ -6,6 +6,8 @@ summary: National Conference in Kansas City, KS
 
 ![png](poster.png)
 
+Juneun Jay Park presented a poster about Young adult perspectives on ecological momentary interventions for blackout at the 2026 annual meeting of the Collaborative Perspectives on Addiction in Kansas City, Missouri, USA.
+
 ## <center> References </center>
 - Miller, M. B., Merrill, J. E., Singh, S., DiBello, A. M., & Carey, K. B. (2018). College student knowledge of blackouts and implications for alcohol intervention: A qualitative analysis. Psychology of addictive behaviors : journal of the Society of Psychologists in Addictive Behaviors, 32(8), 933–943. https://doi.org/10.1037/adb0000419
 
